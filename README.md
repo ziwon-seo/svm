@@ -107,7 +107,7 @@ plt.axis([0, 6, 0, 90])
 
 
     
-![svg](output_6_1.svg)
+![svg](img/output_6_1.svg)
     
 
 
