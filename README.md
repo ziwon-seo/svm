@@ -706,7 +706,7 @@ plt.show()
 
 
     
-.. image:: img/output_29_1.png
+.. image:: ./img/output_29_1.png
     
 
 
