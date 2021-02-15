@@ -706,7 +706,7 @@ plt.show()
 
 
     
-![svg](img/output_29_1.svg)
+!(img/output_29_1.png)
     
 
 
