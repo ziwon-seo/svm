@@ -706,7 +706,7 @@ plt.show()
 
 
     
-.. image:: ./img/output_29_1.png
+![output_29_1](/img/output_29_1.png)
     
 
 
