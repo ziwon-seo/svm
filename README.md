@@ -144,7 +144,7 @@ plt.axis([-2, 2, -2, 2])
 
 
     
-![svg](output_8_1.svg)
+![svg](img/output_8_1.svg)
     
 
 
@@ -236,7 +236,7 @@ plt.show()
 
 
     
-![svg](output_14_0.svg)
+![svg](img/output_14_0.svg)
     
 
 
@@ -333,7 +333,7 @@ plt.axis([4, 5.9, 0.8, 2.8])
 
 
     
-![svg](output_17_1.svg)
+![svg](img/output_17_1.svg)
     
 
 
@@ -362,7 +362,7 @@ plt.show()
 
 
     
-![svg](output_20_0.svg)
+![svg](img/output_20_0.svg)
     
 
 
@@ -402,7 +402,7 @@ plt.show()
 
 
     
-![svg](output_21_1.svg)
+![svg](img/output_21_1.svg)
     
 
 
@@ -445,7 +445,7 @@ plt.show()
 
 
     
-![svg](output_23_1.svg)
+![svg](img/output_23_1.svg)
     
 
 
@@ -663,7 +663,7 @@ plt.show()
 
 
     
-![svg](output_28_1.svg)
+![svg](img/output_28_1.svg)
     
 
 
@@ -706,7 +706,7 @@ plt.show()
 
 
     
-![svg](output_29_1.svg)
+![svg](img/output_29_1.svg)
     
 
 
