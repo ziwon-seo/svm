@@ -148,7 +148,7 @@ plt.axis([-2, 2, -2, 2])
     
 
 
-![png](image/iris.png)
+![iris](img/iris.png)
 
 꽃받침 넓이', '꽃받침 길이', '꽃잎 너비', '꽃잎 길이
 
